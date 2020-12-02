@@ -5,7 +5,3 @@
 - 💬 Some experience with ReactJS, NodeJS and PHP
 - ⚡ Always looking for self improvement!
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rodrigolemosrl)
-
-### Cool Stats
-
-[![Rodrigo's github stats](https://github-readme-stats.vercel.app/api?username=rodrigolemos)](https://github.com/anuraghazra/github-readme-stats)
